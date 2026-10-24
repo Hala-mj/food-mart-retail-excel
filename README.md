@@ -11,17 +11,19 @@ Included deliverables:
 - `Food_Mart_Retail_Project.xlsx` — Excel workbook (Power Query / Power Pivot / PivotTables)
 - `data/FoodMart/` — source CSVs (Calendar, Customers, Products, Region, Returns, Stores, Sales 2017–2018)
 - `docs/Food_Mart_Retail_Analysis.docx` — project brief / analysis guide
-- `docs/screenshots/` — workbook screenshots
+- `docs/screenshots/` — dashboard sheet screenshots (Main Figures, Customer Insights, Product Insights)
 
 The CSV customer and store fields are from a **sample retail dataset** (synthetic demo names and contact details), not real personal data.
 
 ## Screenshots
 
-| Cards Members pivot | Power Pivot measures | Customers by age / gender |
-|---|---|---|
-| ![Cards Members](docs/screenshots/cards-members-pivot.png) | ![Power Pivot](docs/screenshots/power-pivot-measures.png) | ![Demographics](docs/screenshots/customers-by-age-gender.png) |
+Dashboard sheets captured from `Food_Mart_Retail_Project.xlsx` (Excel):
 
-Workbook tabs include **Cards Members**, **Top Customers**, **KPI**, **Sales By Brand**, and **Sales By Region**.
+| 1. Main Figures | 2. Customer Insights | 3. Product Insights |
+|---|---|---|
+| ![Main Figures](docs/screenshots/main-figures-dashboard.png) | ![Customer Insights](docs/screenshots/customer-insights-dashboard.png) | ![Product Insights](docs/screenshots/product-insights-dashboard.png) |
+
+Workbook tabs include **1. Main Figures**, **2. Customer Insights**, **3. Product Insights**, plus supporting sheets (**Cards Members**, **Top Customers**, **KPI**, **Sales By Brand**, **Sales By Region**, and chart source sheets).
 
 ## Key findings
 
